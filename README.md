@@ -1,4 +1,5 @@
-### Hi there 👋
+### cv: https://docs.google.com/document/d/1wAF4gcx8pZ_tOX1kXMXTY7Qqy2WrfxvudR9uchnZt1c/edit?usp=sharing
+### linkedin: https://www.linkedin.com/in/siver-omar-96288a248/
 
 <!--
 **siveromar/siveromar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
